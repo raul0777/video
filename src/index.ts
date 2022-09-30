@@ -1,1 +1,1 @@
-import './form-controll'
+import './form-controls'
